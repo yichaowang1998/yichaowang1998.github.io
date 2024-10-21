@@ -1,18 +1,19 @@
 ---
 layout: archive
-title: "Publications"
+title: "publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Education
+Main Publications
 ======
-* PhD in Computer Science, Florida State University, 2020 - present
-* B.Eng in Computer Science, Xi'an Jiaotong University, 2016 - 2020
+[Multi-Subject 3D Human Mesh Construction Using Commodity WiFi.](../assets/)
+**Yichao Wang**, Yili Ren, Jie Yang.
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024). - top-tier [csrankings.org](https://csrankings.org/) conference.
+
+
 
 Work experience
 ======
