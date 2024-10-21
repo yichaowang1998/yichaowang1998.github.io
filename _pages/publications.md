@@ -9,20 +9,32 @@ redirect_from:
 
 Main Publications
 ======
-[Multi-Subject 3D Human Mesh Construction Using Commodity WiFi.](../assets/)
-**Yichao Wang**, Yili Ren, Jie Yang.
+[SpaceBeat: Identity-aware Multi-person Vital Signs Monitoring Using Commodity WiFi](../files/SpaceBeat.pdf).
+Bofan Li, Yili Ren, **Yichao Wang**, Jie Yang.
 Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024). - top-tier [csrankings.org](https://csrankings.org/) conference.
 
 
+[Multi-Subject 3D Human Mesh Construction Using Commodity WiFi](../files/Multi-Subject 3D Human Mesh.pdf).
+**Yichao Wang**, Yili Ren, Jie Yang.
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024). - top-tier [csrankings.org](https://csrankings.org/) conference.
 
-Work experience
+[Person Re-identification in 3D Space: A WiFi Vision-based Approach](../files/Person Re-identification in 3D Space.pdf).
+Yili Ren, **Yichao Wang**, Sheng Tan, Yingying Chen, Jie Yang.
+The 32nd USENIX Security Symposium (USENIX Security 2023). - top-tier [csrankings.org](https://csrankings.org/) conference.
+
+[Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction](../files/Wi-Mesh.pdf).
+**Yichao Wang**, Yili Ren, Yingying Chen, Jie Yang.
+The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022). - top-tier [csrankings.org](https://csrankings.org/) conference.
+
+[GoPose: 3D Human Pose Estimation Using WiFi](../files/GoPose.pdf).
+Yili Ren, Zi Wang, **Yichao Wang**, Sheng Tan, Yingying Chen, Jie Yang.
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2022). - top-tier [csrankings.org](https://csrankings.org/) conference.
+
+
+Other Publications
 ======
-* 2020 - present: Research Assistant
-  * Florida State University
-  
-Awards
-======
-* Graduate Student Research Award, Florida State University, 2023
-* Dean’s Award for Doctoral Excellence, Florida State University, 2023
+[A WiFi Vision-based 3D Human Mesh Reconstruction](). (poster)
+Yichao Wang, Yili Ren, Yingying Chen, Jie Yang.
+The 28th Annual International Conference on Mobile Computing and Networking (MobiCom 2022). - top-tier csrankings.org conference.
 
 
